@@ -1,0 +1,43 @@
+.card-title {
+	font-size: 27px;
+	margin: auto;
+	text-align: center;
+	padding: 15px;
+	font-family: sans-serif;
+	font-weight: normal;
+	margin-top: 15px;
+}
+.card-body {
+	background-image:url(../img/images.jpg);
+	padding: 15px 40px;
+
+}
+.card-block {
+	background-image:url(../img/fone.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 15px;
+	margin: auto;
+	margin-top: 15px;
+}
+.card-img {
+	display: block;
+	border-radius: 10%;
+	margin: auto;
+	width: 250px;
+	margin-top: 15px;
+	box-shadow:12px 12px 5px 0px #07010cb5;
+}
+.card-subtitle {
+	font-size: 25px;
+}
+.card-skill {
+	font-size: 18px;
+
+}
+.logo-tel {
+	width: 50px;
+}
+.logo-instagram {
+	width: 50px;
+}
